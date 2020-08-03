@@ -64,7 +64,7 @@ namespace ShoppingBasketCalculator.Builders
             
             }
 
-            if (!invalidProducts.Any())
+            if (invalidProducts.Count > 0)
             {
                 throw new Exception($"Invalid products found: {string.Join(',',invalidProducts)}");
             }

@@ -60,21 +60,24 @@ namespace ShoppingBasketCalculatorTest
                         ProductId = 3,
                         NumberOfItems = 2,
                         PricePerItem = 130,
-                        OfferType = null
+                        OfferType = null,
+                        ProductName = "Milk"
                     },
                     new BasketItem
                     {
                         ProductId = 1,
                         PricePerItem = 100,
                         NumberOfItems = 1,
-                        OfferType = discountType
+                        OfferType = discountType,
+                        ProductName = "Apples"
                     },
                     new BasketItem
                     {
                         ProductId = 2,
                         PricePerItem = 80,
                         NumberOfItems = 1,
-                        OfferType = null
+                        OfferType = null,
+                        ProductName = "Bread"
                     }
                 };
 
