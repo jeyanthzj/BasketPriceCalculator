@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasketCalculatorTest", "ShoppingBasketCalculatorTest\ShoppingBasketCalculatorTest.csproj", "{022210DC-52F2-487D-BD54-D83E4301D07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasketCalculator", "ShoppingBasketCalculator\ShoppingBasketCalculator.csproj", "{679FC690-5D6B-4C60-9251-3007E3D82BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022210DC-52F2-487D-BD54-D83E4301D07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022210DC-52F2-487D-BD54-D83E4301D07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022210DC-52F2-487D-BD54-D83E4301D07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022210DC-52F2-487D-BD54-D83E4301D07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679FC690-5D6B-4C60-9251-3007E3D82BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679FC690-5D6B-4C60-9251-3007E3D82BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679FC690-5D6B-4C60-9251-3007E3D82BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679FC690-5D6B-4C60-9251-3007E3D82BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

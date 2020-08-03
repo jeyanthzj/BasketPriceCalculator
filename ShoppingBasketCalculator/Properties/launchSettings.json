@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShoppingBasketCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "Beans Beans Bread"
+    }
+  }
+}

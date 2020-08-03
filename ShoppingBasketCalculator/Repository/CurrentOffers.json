@@ -1,0 +1,12 @@
+[
+  {
+    "ProductId": 1,
+    "DiscountCode": "TenPercentOff",
+    "DiscountDetail": "Apples 10% off"
+  },
+  {
+    "ProductId": 2,
+    "DiscountCode": "BuyTwoBeansGetBreadHalfPrice",
+    "DiscountDetail": "Buy 2 Beans and Get half price bread"
+  }
+]
